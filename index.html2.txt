@@ -1,0 +1,81 @@
+﻿﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>黃怡婕的作業二</title>
+    <link rel="icon"  href="name.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    ss<style>
+    
+     *      {margin: 0; padding: 0;}
+    
+     body   {width: 100%; min-width: 600px; max-width: 960px; margin: 0 auto;}
+    
+     header {width: 100%; background: #eaeaea;}
+    
+     nav    {width: 100%; background: black; color: white;}
+    
+     main   {width: 70%; background: skyblue; height: 300px; float: left;} 
+    
+     aside  {width: 30%; background: pink; height: 300px; float: right;}
+    
+     footer {width: 100%; background: #eaeaea; clear: both;} 
+  
+   </style>
+</head>
+S
+<body onload="javascript: alert('黃怡婕 4B452080')">
+    <nav>
+
+        <h3>
+            <i class="fa fa-home" aria-hidden="true"></i>首頁
+           
+            <i class="fa fa-user" aria-hidden="true"></i>關於我
+            
+            <i class="fa fa-briefcase" aria-hidden="true"></i>作品集
+            
+            <i class="fa fa-cart-plus" aria-hidden="true"></i>我的商店
+            
+            <i class="fa fa-plug" aria-hidden="true"></i>相關連結</h3>
+    
+    </nav>
+
+  <header>
+    <h1><p>&ensp;</p><p>Hello word!!</p></h1>
+    <h4>全世界最簡單的網頁</h4>
+        
+    <p>&ensp;</p>
+  </header>
+
+  <aside>
+        
+      <h1>側邊欄</h1>
+    
+  </aside>
+
+
+    
+  <main>
+ 
+      <h1>主要內容</h1>
+        
+      <p><i class="fa fa-university" aria-hidden="true"></i>班級：電商二甲</p>
+        
+      <p><i class="fa fa-credit-card" aria-hidden="true"></i>姓名：黃怡婕</p>
+        
+      <p><i class="fa fa-credit-card" aria-hidden="true"></i>學號：4B452080</p>
+        
+      <p><i class="fa fa-credit-card" aria-hidden="true"></i>自己的美照</p>
+        
+      <img src="jett3.png" width="100">
+        
+      <img src="name.png" width="100">
+    
+   </main>
+
+  <footer>
+    <p>&copy; 2026南台公司</p>
+    <p><a href="#">Back to top</a></p>
+  </footer>
+ </body>
+</html>
